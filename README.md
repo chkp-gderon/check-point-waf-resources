@@ -1,4 +1,4 @@
-# Check Point WAF Scripts
+# Check Point WAF Resources
 
 A collection of Python scripts and AI prompts for automating Check Point CloudGuard Web Application Firewall (WAF) operations and management.
 
