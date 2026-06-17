@@ -1,10 +1,10 @@
 # Check Point WAF Resources
 
-A collection of Python scripts and AI prompts for automating Check Point CloudGuard Web Application Firewall (WAF) operations and management.
+A collection of Python scripts and AI prompts for automating Check Point Web Application Firewall (WAF) operations and management.
 
 ## Overview
 
-This repository contains utility scripts designed to streamline WAF management tasks in Check Point CloudGuard environments, including retrieval of tuning suggestions, policy optimization, and AI-assisted exception generation.
+This repository contains utility scripts designed to streamline WAF management tasks in Check Point environments, including retrieval of tuning suggestions, policy optimization, and AI-assisted exception generation.
 
 ## Contents
 
